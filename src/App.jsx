@@ -50,7 +50,7 @@ function App() {
          }
         />
         <button>Enviar</button>
-        {errorInfo ? <p>'Por favor chequea que la información sea correcta'</p> : null}
+        {errorInfo ? <p className='error'>'Por favor chequea que la información sea correcta'</p> : null}
       </form>
       { showInfo ? (
         <Card nombre= {musicInfo.nombre} artista={musicInfo.artista} cancion={musicInfo.cancion}/>
