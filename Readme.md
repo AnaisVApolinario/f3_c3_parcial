@@ -1,6 +1,5 @@
 # Proyecto de Formulario de Música en React con Vite 🎶
-
-Este proyecto está diseñado para llenar información sobre las preferencias musicales de los usuarios. Los usuarios ingresan su nombre, su artista favorito y su canción preferida, y al hacer clic en "Enviar", los datos ingresados se muestran en la misma página.
+Este proyecto permite a los usuarios compartir sus gustos musicales a través de un formulario. Los usuarios pueden ingresar su nombre, su artista favorito y su canción preferida. Al hacer clic en el botón "Enviar", los datos proporcionados se muestran inmediatamente en la misma página, sin necesidad de recargarla.
 
 ## Tecnologías utilizadas
 
